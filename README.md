@@ -30,6 +30,9 @@ The selection of online courses for ML for trading is very poor in my opinion.
   * Coursera, NYU - Fundamentals of Machine Learning in Finance [[Link]](https://www.coursera.org/learn/fundamentals-machine-learning-in-finance)
   * Coursera, NYU - Reinforcement Learning in Finance [[Link]](https://www.coursera.org/learn/reinforcement-learning-in-finance)
   * Coursera, NYU - Overview of Advanced Methods for Reinforcement Learning in Finance [[Link]](https://www.coursera.org/learn/advanced-methods-reinforcement-learning-finance)
+ 
+* Robert Tibshirani and Trevor Hastie - Statistical Learning series [[Link]](https://www.youtube.com/watch?v=5N9V07EIfIg&list=PLOg0ngHtcqbPTlZzRHA2ocQZqB1D_qZ5V)
+
 
 ## Youtube videos
 * :star: Siraj Raval - Videos about stock market prediction using Deep Learning [[Link]](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/search?query=trading)
